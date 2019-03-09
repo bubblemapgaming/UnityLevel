@@ -1,0 +1,13 @@
+PREFABS
+3D Character Controler - Unity Startard Assets by Unity Tehcnologies
+Glass Reftaction Material - Unity Standard Assets by Unity Technologies
+Laptop Model - Free Laptop by Vertex Studio - Free on Unity Asset Store (https://assetstore.unity.com/packages/3d/props/electronics/free-laptop-90315)
+CCTV Camera Prefab - Unity Standard Assets by Unity Technologies
+Prefab Furniture - Big Furniture Pack by Vertex Studio - Free on Unity Asset Store (https://assetstore.unity.com/packages/3d/props/furniture/big-furniture-pack-7717)
+Prefab Office Ware - Office Supplies Low Poly - Sten Ulfsson - Free on Unity Asset Store (https://assetstore.unity.com/packages/3d/props/office-supplies-low-poly-105519)
+
+FONTS
+
+TEXTURES/MATERIALS
+Fire/Explosion Effects (Effect Examples) - Unity Particle Pack 5.x by Unity Technologies - https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-5-x-73777 . Note: Prefabs in this pack were not used.
+
